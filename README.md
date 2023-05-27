@@ -7,11 +7,13 @@
 - [Deployed-Application](#deployed-application)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
+- [Screenshot](#screenshot)
 - [Questions](#questions)
 - [License](#license)
 
 ## Deployed Application
+
+https://calm-taiga-83545.herokuapp.com/
 
 ## Description
 
@@ -30,7 +32,7 @@ This repository serves as a CMS-style blog site with the purpose of enabling any
 - Enter `quit` into terminal
 - Enter `npm start` into terminal 
 
-## Screenshots
+## Screenshot
 
 <img width="1510" alt="CodeBytes" src="https://github.com/malachigamblin/Weather-Dashboard-Challenge/assets/118701306/f9f247db-b8ff-42c5-9c5e-ddbbc89ed909">
 
